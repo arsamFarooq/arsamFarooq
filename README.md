@@ -4,13 +4,13 @@
 </p>
 <ul>
 <li>
-💻 Fullstack: Django,Next.js, Koa, MERN Stack, MEAN Stack.
+💻 Fullstack: Django, Next.js, Koa, MERN Stack, MEAN Stack.
 </li>
 <li>
 🤖 Backend: Python, Django, Flask, Laravel, NodeJS and  ExpressJS
 </li>
 <li>
-📱 Mobile: React Native, Flutter, Swift, Kotlin, Java
+📱 Mobile: React Native, Flutter, Swift, Kotlin and Java
 </li>
 <li>
 🎨 Frontend: React JS, Next JS, Angular JS, Vue JS,Javascript, JQuery, HTML5, CSS3, Bootstrap and Tailwind
@@ -19,7 +19,7 @@
 💾 Storage: MySQL, PostgreSQL, SQLite, Mongo DB, Firestore, Redis, Elastic search, and algolia
 </li>
 <li>
-📨 Message Brokers: Rabbitmq and Kafka, AWS SQS
+📨 Message Brokers: Rabbitmq Kafka and AWS SQS
 </li>
 <li>
 ☁️ Clouds: AWS, AZURE, GCP and Digital Ocean.
@@ -39,7 +39,7 @@
 </ul>
 
 <h2>Certifications</h2>
-<p align="left"> <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="100" width="100"/> </p>
+<p align="left"> <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="130" width="130"/> </p>
 
 <h2>Stats</h2>
 <div style="display:flex;align-items:center; gap:20px;   flex-wrap: wrap;">
