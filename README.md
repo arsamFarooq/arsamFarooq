@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Arsam Farooq</h1>
-<p align="left">I am a highly skilled Full-Stack Developer and AWS Certified Solutions Architect with over 5 years of experience in the software industry. I have delivered numerous features and tasks for more than 15 production-level web and mobile applications. My passion lies in helping clients bring their visions to life and ensuring their satisfaction with the final product. I believe that communication and collaboration are key to delivering successful projects.</p>
+<p align="left">I am a highly skilled Full-Stack Developer and AWS Certified Solutions Architect with over 6 years of experience in the software industry. I have delivered numerous features and tasks for more than 15 production-level web and mobile applications. My passion lies in helping clients bring their visions to life and ensuring their satisfaction with the final product. I believe that communication and collaboration are key to delivering successful projects.</p>
 <p>Throughout my career in the software industry, I have acquired extensive, in-depth experience with a wide array of tools, programming languages, frameworks, and technologies, including but not limited to:
 </p>
 <ul>
